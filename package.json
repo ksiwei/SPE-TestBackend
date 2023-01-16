@@ -1,0 +1,24 @@
+{
+  "name": "spe-testbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "server": "^1.0.38"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksiwei/SPE-TestBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksiwei/SPE-TestBackend/issues"
+  },
+  "homepage": "https://github.com/ksiwei/SPE-TestBackend#readme"
+}
