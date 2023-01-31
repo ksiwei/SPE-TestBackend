@@ -11,8 +11,7 @@ function generateRandomLocale() {
 
 //Shipping Request/Response format
 let shippingPreference = {
-  option: "YARD",
-  portOption: "",
+  option: "YARD"
 };
 
 let serverOptions = {
